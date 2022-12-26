@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "product": "car",
+    "brand": "Rolls Royce",
+    "model": "spectree visualiser ",
+    "cetagory": "new",
+    "color": "brown",
+    "price": 100000000,
+    "image": "https://i.ibb.co/DtPBrqN/car-one.jpg"
+  },
+  {
+    "id": 2,
+    "product": "car",
+    "brand": "Rolls Royce",
+    "model": "visualiser spec",
+    "cetagory": "new",
+    "color": "black",
+    "price": 60000000,
+    "image": "https://i.ibb.co/jRCV1Qh/car-two.webp"
+  },
+  {
+    "id": 3,
+    "product": "car",
+    "brand": "Mercedez Benz",
+    "model": "300 SLR",
+    "cetagory": "new",
+    "color": "silvar",
+    "price": 50000000,
+    "image": "https://i.ibb.co/pQt2T1H/car-three.png"
+  },
+  {
+    "id": 4,
+    "product": "car",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "cetagory": "new",
+    "color": "blue",
+    "price": 180000000,
+    "image": "https://i.ibb.co/wBJ4KVz/car-four.jpg"
+  },
+  {
+    "id": 5,
+    "product": "bike",
+    "brand": "Yamaha",
+    "model": "yamaha R15 V3 ",
+    "cetagory": "new",
+    "color": "black",
+    "price": 6000,
+    "image": "https://i.ibb.co/7CQLqHp/bike-one.jpg"
+  },
+  {
+    "id": 6,
+    "product": "bike",
+    "brand": "TVS",
+    "model": "apachee hourse 160",
+    "cetagory": "new",
+    "color": "black",
+    "price": 3500,
+    "image": "https://i.ibb.co/bmS3mjR/bike-two.jpg"
+  },
+  {
+    "id": 7,
+    "product": "bike",
+    "brand": "bajaj",
+    "model": "pulsar 150",
+    "cetagory": "new",
+    "color": "black",
+    "price": 3700,
+    "image": "https://i.ibb.co/dbYxpRk/bike-three.jpg"
+  },
+  {
+    "id": 8,
+    "product": "bike",
+    "brand": "Bajaj",
+    "model": "pulsar 150",
+    "cetagory": "new",
+    "color": "blue",
+    "price": 3720,
+    "image": "https://i.ibb.co/r0hfFLn/bike-four.jpg"
+  },
+  {
+    "id": 9,
+    "product": "watch",
+    "brand": "casio",
+    "model": "edifice",
+    "cetagory": "new",
+    "color": "silvar",
+    "price": 1200,
+    "image": "https://i.ibb.co/S7msPNS/watch-one.jpg"
+  },
+  {
+    "id": 10,
+    "product": "watch",
+    "brand": "casio",
+    "model": "edifice black",
+    "cetagory": "new",
+    "color": "black",
+    "price": 1220,
+    "image": "https://i.ibb.co/K749kZ4/watch-two.jpg"
+  },
+  {
+    "id": 11,
+    "product": "watch",
+    "brand": "techymeter",
+    "model": "tissot 1853",
+    "cetagory": "new",
+    "color": "black",
+    "price": 1020,
+    "image": "https://i.ibb.co/mhbYnHG/watch-threejpg.png"
+  },
+  {
+    "id": 12,
+    "product": "watch",
+    "brand": "titan",
+    "model": "titan 03",
+    "cetagory": "new",
+    "color": "silvar",
+    "price": 1700,
+    "image": "https://i.ibb.co/Rgp2Z6q/watch-four.jpg"
+  },
+  {
+    "id": 13,
+    "product": "sunglass",
+    "brand": "Vintage",
+    "model": "Gregory peck men",
+    "cetagory": "new",
+    "color": "chocolate",
+    "price": 500,
+    "image": "https://i.ibb.co/CPwgtNp/glass-one.jpg"
+  },
+  {
+    "id": 14,
+    "product": "sunglass",
+    "brand": "vintage",
+    "model": "Metal Sunglasses Rimless Square",
+    "cetagory": "new",
+    "color": "gold metal",
+    "price": 700,
+    "image": "https://i.ibb.co/SNC5qTR/glass-two.jpg"
+  },
+  {
+    "id": 15,
+    "product": "sunglass",
+    "brand": "polarized",
+    "model": "polarized p4",
+    "cetagory": "new",
+    "color": "black",
+    "price": 850,
+    "image": "https://i.ibb.co/LkzWyVg/glass-three.jpg"
+  },
+  {
+    "id": 16,
+    "product": "sunglass",
+    "brand": "mercedes benz",
+    "model": "mb25",
+    "cetagory": "new",
+    "color": "black",
+    "price": 1700,
+    "image": "https://i.ibb.co/xHMStLN/glass-four.jpg"
+  }
+]
